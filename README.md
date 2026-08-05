@@ -96,7 +96,10 @@ IoT-based smart security system using ESP32-CAM and GPS.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivanir0210&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=shivanir0210&theme=tokyonight" height="170"/>
+  <p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivanir0210&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivanir0210&layout=compact&theme=tokyonight"/>
+</p>
 </p>
 
 <p align="center">
