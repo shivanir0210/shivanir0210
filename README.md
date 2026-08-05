@@ -95,25 +95,21 @@ IoT-based smart security system using ESP32-CAM and GPS.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivanir0210&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanir0210&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivanir0210&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=shivanir0210&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanir0210&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivanir0210&layout=compact&theme=tokyonight"/>
+</p>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn
-- 🌐 Portfolio
+- 💼 LinkedIn - https://linkedin.com/in/shivani-r-498851333
+- 🌐 Portfolio - https://shivani-portfolio-psi.vercel.app/
 - 📧 shivani.r2024it@sece.ac.in
 
 ---
